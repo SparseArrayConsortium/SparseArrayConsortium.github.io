@@ -19,6 +19,6 @@ array-api:
 sparse-array-programming-suite:
   name: Sparse Array Programming Suite
   link: https://sparsearrayprogrammingsuite.github.io
-  logo: /assets/project-logos/sparse-array-programming-suite.png
+  logo: /assets/project-logos/sparse-array-programming-suite.svg
   description: Application benchmarks for sparse array programming systems.
   extra: "&nbsp;"
