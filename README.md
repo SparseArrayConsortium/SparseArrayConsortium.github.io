@@ -1,4 +1,4 @@
-# SparseArrayonsortium.github.io
+# SparseArrayConsortium.github.io
 
 Build with:
 
