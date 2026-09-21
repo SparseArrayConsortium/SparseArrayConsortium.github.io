@@ -18,26 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sparse Array Programming Consortium
+title: Sparse Array Consortium
 description: Coordinating organization for sparse array programming projects, tools, standards, and benchmarks.
 baseurl:
-url: https://sparsearrayprogrammingconsortium.github.io
+url: https://sparsearrayconsortium.github.io
 permalink: /:categories/:title
 
-content_type: Sparse Array Programming Consortium
+content_type: Sparse Array Consortium
 use_authors: true # Set this to false to disable showing post authors
 
-brand_logo: SAPCLogo.png
-brand_name: Sparse Array Programming Consortium
-header: Sparse Array Programming Consortium
+brand_logo: SACLogo.png
+brand_name: Sparse Array Consortium
+header: Sparse Array Consortium
 subheader: Coordinating sparse array programming, interchange, APIs, and benchmarks.
 
-meta_image: SAPCLogo.png
+meta_image: SACLogo.png
 
 # Social Links
 twitter_username:
 facebook_page:
-github_username: SparseArrayProgrammingConsortium
+github_username: SparseArrayConsortium
 email:
 linkedin_page:
 instagram_username: 
@@ -53,7 +53,7 @@ nav_item_three:
 nav_item_three_link:
 
 nav_button: GitHub
-nav_button_link: https://github.com/SparseArrayProgrammingConsortium
+nav_button_link: https://github.com/SparseArrayConsortium
 
 # Build settings
 theme: minima

@@ -48,7 +48,7 @@ jobs:
             "https://github.com/jgraph/drawio-desktop/releases/download/v${DRAWIO_VERSION}/drawio-amd64-${DRAWIO_VERSION}.deb"
           sudo apt-get update
           sudo apt-get install -y xvfb /tmp/drawio.deb
-      - name: Export SAPC logo
+      - name: Export SAC logo
         run: |
           xvfb-run -a drawio \
             --export \
@@ -56,8 +56,8 @@ jobs:
             --transparent \
             --theme light \
             --scale 4 \
-            --output assets/SAPCLogo.png \
-            SAPCLogo.drawio
+            --output assets/SACLogo.png \
+            SACLogo.drawio
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
