@@ -21,7 +21,7 @@
 title: Sparse Array Consortium
 description: Coordinating organization for sparse array programming projects, tools, standards, and benchmarks.
 baseurl:
-url: https://sparsearrayconsortium.github.io
+url: https://sparsearray.org
 permalink: /:categories/:title
 
 content_type: Sparse Array Consortium
