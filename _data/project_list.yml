@@ -22,3 +22,9 @@ sparse-array-programming-suite:
   logo: /assets/project-logos/sparse-array-programming-suite.svg
   description: Application benchmarks for sparse array programming systems.
   extra: "&nbsp;"
+python-graphblas:
+  name: Python-graphblas
+  link: https://python-graphblas.readthedocs.io
+  logo: /assets/project-logos/python-graphblas.svg
+  description: High-performance sparse linear algebra for scalable graph analytics in Python.
+  extra: "&nbsp;"

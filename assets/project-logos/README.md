@@ -7,3 +7,5 @@ These assets are used by the project cards on the home page.
 - `array-api.png`: from `data-apis/data-apis.github.io`, `static/images/dark_blue_logo.png`
 - `sparse-array-programming-suite.png`: exported from `SparseArrayProgrammingSuite/SparseArrayProgrammingSuite.github.io`, `SAPS.drawio`, page 2 (`Logo`)
 - `sparse-array-programming-suite.svg`: icon-only mark from `SparseArrayProgrammingSuite/SparseArrayProgrammingSuite.github.io`, `_includes/saps-icon.svg`
+- `python-graphblas.svg`: from `python-graphblas/python-graphblas`, `docs/_static/img/logo-horizontal-light.svg` (for light backgrounds)
+- `python-graphblas-dark.svg`: from `python-graphblas/python-graphblas`, `docs/_static/img/logo-horizontal-dark.svg` (for dark backgrounds)
